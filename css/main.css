@@ -14,6 +14,19 @@ body {
     font-size: 1em;
     line-height: 1.4;
     background-image: url('../img/FirstPageBackground2.jpg');
+    background-size: 1230px;
+}
+
+nav
+{
+    float: right;
+    padding-right: 200px;
+}
+
+nav a
+{
+    padding-right: 50px;
+    color: white;
 }
 
 ::-moz-selection {
